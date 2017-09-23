@@ -1,0 +1,15 @@
+C:\Users\Büşra_Metin_Bilg\AppData\Local\Temporary Projects\League Of Legends Summoner Helper\bin\Debug\League Of Legends Summoner Helper.exe.config
+C:\Users\Büşra_Metin_Bilg\Desktop\League Of Legends Summoner Helper\League Of Legends Summoner Helper\bin\Debug\League Of Legends Summoner Helper.exe.config
+C:\Users\Büşra_Metin_Bilg\Desktop\League Of Legends Summoner Helper\League Of Legends Summoner Helper\bin\Debug\League Of Legends Summoner Helper.exe
+C:\Users\Büşra_Metin_Bilg\Desktop\League Of Legends Summoner Helper\League Of Legends Summoner Helper\bin\Debug\League Of Legends Summoner Helper.pdb
+C:\Users\Büşra_Metin_Bilg\Desktop\League Of Legends Summoner Helper\League Of Legends Summoner Helper\bin\Debug\League Of Legends Summoner Helper.xml
+C:\Users\Büşra_Metin_Bilg\Desktop\League Of Legends Summoner Helper\League Of Legends Summoner Helper\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Büşra_Metin_Bilg\Desktop\League Of Legends Summoner Helper\League Of Legends Summoner Helper\obj\Debug\League Of Legends Summoner Helper.vbproj.GenerateResource.Cache
+C:\Users\Büşra_Metin_Bilg\Desktop\League Of Legends Summoner Helper\League Of Legends Summoner Helper\obj\Debug\League Of Legends Summoner Helper.exe
+C:\Users\Büşra_Metin_Bilg\Desktop\League Of Legends Summoner Helper\League Of Legends Summoner Helper\obj\Debug\League Of Legends Summoner Helper.xml
+C:\Users\Büşra_Metin_Bilg\Desktop\League Of Legends Summoner Helper\League Of Legends Summoner Helper\obj\Debug\League Of Legends Summoner Helper.pdb
+C:\Users\Büşra_Metin_Bilg\Desktop\League Of Legends Summoner Helper\League Of Legends Summoner Helper\obj\Debug\Lolsm.Form1.resources
+C:\Users\Büşra_Metin_Bilg\Desktop\League Of Legends Summoner Helper\League Of Legends Summoner Helper\obj\Debug\Lolsm.Resources.resources
+C:\Users\Büşra_Metin_Bilg\Desktop\League Of Legends Summoner Helper\League Of Legends Summoner Helper\obj\Debug\Lolsm.Form2.resources
+C:\Users\Büşra_Metin_Bilg\Desktop\League Of Legends Summoner Helper\League Of Legends Summoner Helper\obj\Debug\Lolsm.Form3.resources
+C:\Users\Büşra_Metin_Bilg\Desktop\League Of Legends Summoner Helper\League Of Legends Summoner Helper\obj\Debug\League Of Legends Summoner Helper.vbprojResolveAssemblyReference.cache
